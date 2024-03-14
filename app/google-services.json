@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "4792829919",
+    "project_id": "smsauthentication-f726f",
+    "storage_bucket": "smsauthentication-f726f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:4792829919:android:98b3321d50a89be9e2e66a",
+        "android_client_info": {
+          "package_name": "com.gwl.android_otp_vertification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "4792829919-10ij58iso4v973m5mdehjd72lcqjr16v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gwl.android_otp_vertification",
+            "certificate_hash": "1d8297a2459f0ec61c48c74e23865601ed241fbe"
+          }
+        },
+        {
+          "client_id": "4792829919-qlvmejavs3er6ljsbe03k1akcpc4795i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA784mA4ltQ82fMkX4MoRi0L38wo7KWQDw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "4792829919-qlvmejavs3er6ljsbe03k1akcpc4795i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
